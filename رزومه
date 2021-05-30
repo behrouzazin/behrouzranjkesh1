@@ -1,0 +1,11 @@
+/var/www/git-tutorial$ git push https://github.com/behzadmoradi/git-tutorial.git master
+Username for 'https://github.com': my.email.address@gmail.com
+Password for 'https://my.email.address@github.com': 
+Counting objects: 23, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (19/19), done.
+Writing objects: 100% (23/23), 2.06 KiB | 263.00 KiB/s, done.
+Total 23 (delta 8), reused 0 (delta 0)
+remote: Resolving deltas: 100% (8/8), done.
+To https://github.com/behzadmoradi/git-tutorial.git
+ * [new branch]      master -> master
